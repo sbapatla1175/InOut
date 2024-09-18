@@ -1,0 +1,348 @@
+Event Date: 6/6/2024
+Presenter: Rowly Hirst
+Subject: The potential and application of Relate and Sandy for measuring trustworthiness in business
+interactions and the future direction of the company.
+Summary:
+The discussion focused on the capabilities and applications of Relate and Sandy, tools designed to
+measure trustworthiness in various business contexts, including sales, marketing, and customer
+service. The conversation explored the potential for these tools to revolutionize the way companies
+interact with clients by providing objective measurements of trust and facilitating better communication.
+The potential for scalability and integration with existing platforms like Microsoft Teams and Zoom was
+also discussed. Additionally, the potential for future growth and the strategy for raising capital through
+VC firms and pilot programs were considered.
+Agenda:
+- Introduction to Relate and Sandy's capabilities
+- Discussion on the application of Relate and Sandy in business settings
+- Potential for scalability and integration with other platforms
+- Strategies for raising capital and growth
+- Consideration of future directions and exit potential
+Overall Sentiment:
+The overall sentiment was highly optimistic about the potential of Relate and Sandy to impact the
+business world positively. There was a strong belief in the tools' ability to measure and improve
+trustworthiness, which is seen as a critical factor in business success. The conversation also reflected
+excitement about the growth potential and the strategic approach to raising capital and expanding the
+company's reach.
+
+
+Credibility_Score: 7.867
+- Filler words: [analysis]
+The data reveals a moderate use of filler words by the speaker, Rowly Hirst. Phrases such as "you
+know," "like," "umm," and "yeah" are recurrent throughout the conversation. These filler words indicate
+moments of hesitation or thought collection, which can detract from the perceived confidence and
+preparedness of the speaker.
+- Passion: [analysis]
+Rowly Hirst demonstrates a clear passion for the subject matter, as evidenced by his enthusiastic tone
+and the use of emphatic language such as "mind blowing," "amazing," and "exciting." His focus on the
+transformative potential of the product and its impact on various industries conveys a strong belief in its
+value.
+- Thumbs Up/down feedback: [analysis]
+There is no explicit thumbs up/down feedback provided in the data, so this factor cannot be analyzed.
+- Direct Feedback: [analysis]
+Direct feedback from the audience is not present in the data, so this factor cannot be analyzed.
+- Credibility References: [Provide one noticeable and credibility related reference/quote from the
+transcript]
+One noticeable reference related to credibility is Rowly Hirst's comment on the potential of the product
+and its market opportunity: "Like I think what you gotta keep in mind is that if you think about relate not
+Sandy like what it does, there's no one who has linked AI behind that kind of different structure where in
+terms of what what will our focus on meetings is yeah that this unique platform that you can only
+replicate with a patchwork of software which is you know if you think about the lifetime of meeting you
+don't zoom in to does the event management software up front yeah and." This quote reflects his
+confidence in the uniqueness and competitive advantage of the product.
+
+
+Reliability_Score: [9.257]
+- Jargon: [The data shows minimal use of jargon, with the conversation flowing in a manner that seems
+natural and relatable. The use of terms like "Sandy," "Relate," and "VC" are industry-specific but used
+in context, making them understandable.]
+- Forward statements: [The transcript contains several forward-looking statements, particularly
+regarding the potential and future applications of the product, as well as growth and investment
+opportunities.]
+- Accountability: [There are references to follow-up actions and the importance of accountability in
+meetings, suggesting a culture of sticking to plans and commitments.]
+- Speech consistency: [The speaker consistently promotes the product and its potential throughout the
+conversation, maintaining a clear and focused narrative on its benefits and applications.]
+- Predictability: [The conversation follows a logical flow, with no surprises in the direction or content of
+the discussion.]
+- Direct Feedback: [Feedback from the audience is not present in the data, as the transcript appears to
+be a conversation between colleagues rather than a presentation to clients or a wider audience.]
+- Ratings: [There is no direct feedback or ratings provided in the data to assess.]
+- Unanswered Questions: [The data does not indicate any unanswered questions or questions sent to
+an IR Portal during the meeting.]
+- Flexibility: [The conversation demonstrates flexibility, with the participants discussing various topics
+and potential applications of the product. However, the proportion of live Q&A; versus agenda items
+cannot be determined from the data.]
+- Q&A; timestamps: [The data does not provide specific timestamps for Q&A; sessions, so the
+proportion of live Q&A; versus agenda items cannot be assessed.]
+Event Detail:
+Event Transcript: [The transcript provided is a detailed account of a conversation between colleagues
+discussing the potential, applications, and strategic direction of their product, Relate, and its AI
+component, Sandy. The conversation covers various topics, including investment opportunities, market
+potential, competitive landscape, and the importance of trust and training in business relationships.]
+
+
+Intimacy_Score: 8.167
+- Q&A; Frequency: The data indicates a high frequency of Q&A;, with multiple instances of questions
+and comments being addressed throughout the meeting. For example, Rowly Hirst comments on
+elevator pitching Relate and measuring real trust, highlighting an interactive dialogue.
+- Human Connection: The data shows a strong human connection, with personal stories and references
+to family and relationships, such as the mention of a fertility clinic and personal experiences with
+physicians.
+- Timing of Human Connection: The audience's engagement with the story is evident through the
+feedback given, such as the comment about the opportunities for Relate, indicating a positive reception
+at the time.
+- Empathy context: The sentiment expressed in the comments and feedback is positive, with users
+showing enthusiasm for the opportunities and applications of Relate, suggesting a high level of
+empathy in the conversation.
+- Empathy: There is acknowledgment of the emotions and challenges faced by the participants, such as
+the struggle with how to get patients to open up at a fertility clinic, demonstrating an understanding of
+the emotional context.
+- Direct Feedback: The feedback provided in the event data is directly addressed in the conversation,
+with Rowly Hirst responding to comments about elevator pitching and measuring trust, indicating a high
+level of direct feedback.
+- Naming: The product expert, Rowly Hirst, names attendees when addressing their questions, as seen
+in the feedback data where he directly responds to comments by username, showing a personalized
+approach.
+- Vulnerability: Rowly Hirst expresses vulnerability by sharing personal experiences and challenges,
+such as his thoughts on the future of the business and the potential for competitors, which shows
+openness and limitations.
+Event Detail: The event details provided in the data, including user details, feedback, ratings, and
+questions, have been considered in the evaluation of the intimacy score. The positive feedback and
+engagement from users such as rhirst@trustrelate.com contribute to the high intimacy score.
+Event Transcript: The transcript provided has been the primary source for analyzing the factors
+contributing to the intimacy score. The dialogue between Rowly Hirst and the other participants, the
+interactive Q&A;, and the personal anecdotes all contribute to the intimacy of the meeting.
+
+
+Self_Orientation_Score: 17.000
+- Blame: The product expert does not explicitly blame others in the transcript, but there is a discussion
+about accountability and ensuring follow-ups are done as promised, which could be interpreted as a
+minor instance of shifting responsibility.
+- Name-drop: The product expert name-drops several times, mentioning various companies and
+individuals by name, which could be considered frequent or severe instances.
+- Ego: The product expert frequently uses "I" and discusses their own actions and thoughts, indicating a
+moderate ego-centric behavior.
+- Curiosity: The product expert shows curiosity by asking questions and seeking to understand how to
+improve meetings and the use of the product, indicating moderate curiosity.
+- Interruption: There are instances where the product expert talks about interrupting during meetings
+and the importance of not doing so, suggesting an awareness of the issue, which could be interpreted
+as moderate interruptions.
+- Sentiment: Based on the transcript, there is a mixed sentiment. The product expert expresses
+enthusiasm and sees potential, but also acknowledges challenges and the need for improvement.
+- Ratings: The feedback related to self-orientation is not explicitly stated in the transcript, but the
+product expert's self-reflection on their performance suggests moderate ratings.
+Event Details Analysis:
+- The event feedback is generally positive, with comments on elevator pitching, measuring real trust,
+and opportunities for Relate. One comment mentions getting into Mercer, which could be seen as a
+name-drop.
+- The event rating data is not provided, so it cannot be factored into the score.
+- The event question data shows engagement and curiosity from the product expert, as they ask about
+elevator pitching and measuring trust, indicating a desire to learn and improve.
+
+
+- Deep Analytics:
+1. Event Feedback (Thumbs up/Thumbs Down): There were four instances of feedback provided by the
+user rhirst@trustrelate.com, all of which were comments rather than a thumbs up or thumbs down. This
+indicates that the user was engaged and had specific thoughts to share rather than a general positive
+or negative reaction.
+2. Event Rating Data: No explicit event rating data (such as a numerical score) was provided in the
+transcript.
+3. Event Question Data: The user rhirst@trustrelate.com posed several comments that could be
+interpreted as questions or topics for further exploration, such as how to elevator pitch Relate,
+measuring real trust, the opportunities for Relate, and getting into Mercer.
+4. Speaker Engagement: The speaker, Rowly Hirst, was highly engaged throughout the event, sharing
+detailed insights and responding to the user's comments. The conversation was dynamic and covered
+a wide range of topics related to the business and its potential.
+5. Pace and Modulation: The pace of the meeting seemed consistent, with the speaker providing
+thorough explanations and engaging in a back-and-forth dialogue. Modulation was not explicitly
+mentioned, but the speaker's engagement suggests an effective communication style.
+- Recommendations:
+1. Implement a clear system for event feedback that distinguishes between general sentiment (thumbs
+up/down) and specific comments. This will allow for a more nuanced understanding of participant
+reactions.
+2. Introduce a structured event rating system to quantify participant satisfaction and identify areas for
+improvement.
+3. Encourage participants to clearly label their questions during the event to ensure they are addressed
+promptly and effectively.
+4. Consider summarizing key points and takeaways at the end of the event to reinforce the information
+shared and ensure clarity on action items.
+5. Explore the use of visual aids or presentations to enhance engagement and retention of information,
+especially when discussing complex topics or presenting data.
+
+
+### Explicit Questions
+1. How do we elevator pitch Relate? (Asked by rhirst@trustrelate.com)
+2. How do we measure real trust as opposed to one part? (Asked by rhirst@trustrelate.com)
+3. Can we use Relate to help with training and implementing training programs off the back of the
+insights from Sandy? (Discussed in the context of training and the Trusted Advisor Associates' content)
+### Implicit Questions
+1. What is the potential for Relate to transform online events and make them more interactive and
+engaging?
+2. How can Relate be used to assess and improve the bedside manner of physicians or the
+trustworthiness of professionals in client-facing roles?
+3. What is the exit potential for Relate, and how does it align with the company's vision and the
+preferences of the stakeholders involved?
+
+
+Based on the provided transcript, here are the actionable action items:
+1. **Action Item**: Initiate the onboarding process for potential pilot program participants at 91.
+- **Responsibility**: Rowly Hirst (rhirst@trustrelate.com)
+- **Deadline**: ASAP to capitalize on current momentum and interest.
+2. **Action Item**: Integrate Relate's API with HubSpot to automate the transfer of meeting summaries
+into the CRM.
+- **Responsibility**: Rowly Hirst (rhirst@trustrelate.com) and the technical team
+- **Deadline**: Set a target date for completion within the next 30 days.
+3. **Action Item**: Explore opportunities to present Relate's capabilities to Mercer, leveraging existing
+connections.
+- **Responsibility**: Rowly Hirst (rhirst@trustrelate.com) and any other team members with relevant
+contacts
+- **Deadline**: Schedule initial discussions within the next two weeks.
+4. **Action Item**: Discuss investment opportunities with interested parties, including the planner and
+Andrew Killian from Akura Capital.
+- **Responsibility**: Rowly Hirst (rhirst@trustrelate.com)
+- **Deadline**: Engage in conversations and gauge interest within the next month.
+5. **Action Item**: Develop and provide training materials and guides for new users on how to
+effectively use Relate for training and implementing insights from Sandy.
+- **Responsibility**: Rowly Hirst (rhirst@trustrelate.com) and the Trusted Advisor Associates team
+- **Deadline**: Create and distribute materials within the next 60 days.
+Please note that the deadlines are suggested based on the urgency implied in the transcript and may
+need to be adjusted based on the actual capabilities and resources of the team.
+
+
+```json
+{
+"Filler Words": {
+"score": 6.50,
+"context": "The speaker frequently uses filler words such as 'yeah', 'right', 'you know', and 'uh', which
+can detract from the clarity of the message."
+},
+"Passion": {
+"score": 8.75,
+"context": "The speaker demonstrates passion, particularly when discussing the potential and future of
+the product, using phrases like 'mind blowing' and expressing excitement about the business's upside."
+},
+"Up/Down Feedback": {
+"score": 9.00,
+"context": "The transcript does not provide explicit up/down audience feedback metrics, but the
+speaker's enthusiasm suggests a positive reception."
+},
+"Direct Feedback": {
+"score": 9.00,
+"context": "Direct feedback is positive, with comments indicating interest in the product's capabilities
+and potential for industry impact."
+},
+"Jargon": {
+"score": 7.50,
+"context": "The conversation includes industry-specific terms like 'VC', 'API', 'NPS', and 'CRM', which
+are appropriate for the context but could be considered jargon."
+},
+"Forward Statements": {
+"score": 9.50,
+"context": "The speaker makes numerous forward-looking statements about the company's growth,
+market potential, and future plans."
+},
+"Accountability": {
+"score": 9.00,
+"context": "The speaker discusses accountability in terms of following up on actions from meetings and
+improving trust scores."
+},
+"Speech Consistency": {
+"score": 8.00,
+"context": "The speaker's message is consistent, focusing on the importance of trust and the product's
+ability to measure it."
+},
+"Predictability": {
+"score": 7.00,
+"context": "While the speaker's enthusiasm is predictable, the depth of insight into the product's
+potential applications suggests a level of unpredictability in the conversation."
+},
+"Ratings": {
+"score": 9.00,
+"context": "The speaker's ratings regarding reliability and the product's potential are high, indicating a
+strong belief in the product's success."
+},
+"Unanswered Questions": {
+"score": 9.50,
+"context": "The speaker addresses most questions during the conversation, with detailed explanations
+and examples."
+},
+"Flexibility": {
+"score": 8.50,
+"context": "The speaker demonstrates flexibility by discussing various applications of the product and
+adapting to different use cases."
+},
+"Q&A; Frequency": {
+"score": 8.00,
+"context": "The conversation includes frequent questions and answers, indicating an interactive and
+engaging discussion."
+},
+"Human Connection": {
+"score": 8.75,
+"context": "The speaker makes a human connection by sharing personal experiences and discussing
+the impact on people's lives."
+},
+"Empathy Context": {
+"score": 9.00,
+"context": "The speaker shows empathy by understanding the importance of trust in relationships and
+the challenges faced by clients."
+},
+"Empathy Emotion": {
+"score": 9.00,
+"context": "The speaker acknowledges the emotions associated with the product's potential and the
+excitement it generates."
+},
+"Naming": {
+"score": 8.00,
+"context": "The speaker names specific individuals and companies, creating a more personalized and
+intimate conversation."
+},
+"Vulnerability": {
+"score": 8.50,
+"context": "The speaker expresses vulnerability by discussing the uncertainties and challenges of
+growing the business."
+},
+"Blame": {
+"score": 10.00,
+"context": "The speaker does not blame others and takes ownership of the business's direction and
+decisions."
+},
+"Name-drop": {
+"score": 7.50,
+"context": "The speaker mentions names like 'Mercer' and 'HubSpot', which adds credibility but could be
+seen as name-dropping."
+},
+"Ego": {
+"score": 7.00,
+"context": "The speaker refers to 'I' and 'we' interchangeably, showing a balance between personal
+involvement and team effort."
+},
+"Curiosity": {
+"score": 8.50,
+"context": "The speaker asks questions and shows curiosity about the product's applications and the
+industry's response."
+},
+"Interruption": {
+"score": 8.00,
+"context": "The speaker does not frequently interrupt and listens to the questions and comments from
+others."
+},
+"Sentiment": {
+"score": 9.00,
+"context": "The overall sentiment of the conversation is positive, with a focus on the product's potential
+and the speaker's confidence in its success."
+}
+}
+```
+Top 3 Recommendations:
+1. Reduce Filler Words: While the speaker is knowledgeable and passionate, reducing the use of filler
+words can enhance the clarity and professionalism of the presentation. Practicing speaking points and
+pausing thoughtfully instead of using fillers can help maintain audience engagement.
+2. Expand on Predictability: The speaker's enthusiasm and knowledge are evident, but incorporating
+more data-driven insights and specific examples can add predictability and substance to the
+conversation, reinforcing the speaker's credibility.
+3. Balance Personal and Team References: The speaker should continue to balance the use of 'I' and
+'we' to ensure that the conversation reflects both personal involvement and collective team effort. This
+balance is crucial for demonstrating leadership and fostering a sense of unity within the team.
+
+
+Sandi's Trustworthiness Score:1.487705882352941
+T: 1.487705882352941, Range: Sound level, Band: Low range
